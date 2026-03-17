@@ -7,7 +7,7 @@ A small-form-factor PCB keychain shaped like Hatsune Miku's iconic leek, designe
 ## Features
 
 - Leek-shaped PCB outline with keychain mounting hole
-- 4x green LEDs (leek tip) + 2x white LEDs (base)
+- 5x green LEDs (leek tip) + 2x white LEDs (base)
 - 4 lighting patterns selectable via tactile button
 - SPDT slide switch for hard power on/off
 - CR1220 coin cell powered (~16 hours active runtime)
