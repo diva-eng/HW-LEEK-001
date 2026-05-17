@@ -1,5 +1,5 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-BT1,Battery_Cell,BAT-SMD_MY-1220-03,132.325,-123.025,25.0,bottom
+BT1,Battery_Cell,BAT-SMD_CR1220-2ZX,132.325,-123.025,25.0,bottom
 C1,C,C_0402_1005Metric,142.25,-90.5675,270.0,bottom
 D1,LED,LED_0805_2012Metric,143.3125,-96.75,180.0,top
 D2,LED,LED_0805_2012Metric,140.4,-79.05,0.0,top

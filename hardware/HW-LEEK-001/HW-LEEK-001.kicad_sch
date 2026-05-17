@@ -4979,7 +4979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:BAT-SMD_MY-1220-03"
+		(property "Footprint" "EasyEDA_Lib:BAT-SMD_CR1220-2ZX"
 			(at 35.56 39.116 90)
 			(effects
 				(font
